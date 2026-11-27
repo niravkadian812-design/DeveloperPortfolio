@@ -1,5 +1,4 @@
 # DeveloperPortfolio
-# DeveloperPortfolio
 
 Welcome to my Developer Portfolio! I am Nirav, a B.Tech CSE student at K.R. Mangalam University, interested in Artificial Intelligence, Machine Learning and Cybersecurity.
 
